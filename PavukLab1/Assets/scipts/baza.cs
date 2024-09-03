@@ -8,6 +8,8 @@ public class baza : MonoBehaviour
     [HideInInspector]
     public bool start = false;
 
+    //public GameObject[] spheres;
+
     public Material defMat;
     public Material hitMat;
     public Material selMat;
