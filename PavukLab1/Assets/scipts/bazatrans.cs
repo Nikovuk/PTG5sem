@@ -53,7 +53,6 @@ public class bazatrans : MonoBehaviour
     }
     public void reset()
     {
-
         transform.position = oldPos;
         start = false;
         ren.material = defMat;
